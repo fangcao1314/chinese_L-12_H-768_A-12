@@ -7,7 +7,7 @@ lfs上传代码
 
 $ git init
 
-$ ssh-keygen -t rsa -C "3195066292@qq.com"
+$ ssh-keygen -t rsa -C "一个qq@qq.com"
 
 $ ssh -T git@github.com
 
